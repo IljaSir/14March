@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <cmath>
 #define														a																																				1000
 #define t 20
 #define																			eps																																				0.01
