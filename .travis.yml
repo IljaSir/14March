@@ -4,4 +4,3 @@ os:
   -windows
 script:
   - make
-  - ./marchoff
