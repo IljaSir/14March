@@ -34,7 +34,7 @@ string													func
 {
 	auto					it = number.begin();				int sum = 0;		while
 		(					it != prev											(number.end()))			{
-					sum += '*it';
+					//sum += '*it';
 		it++;
 	}
 
