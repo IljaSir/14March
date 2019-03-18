@@ -87,7 +87,7 @@ int main() {
 output;		
 	int boolean = 'f';
 							cout << 
-"Write string: "								<< endl;
+"Write word: "								<< endl;
 						cin >>     
 output;															cout << "Write number btw -40 and 40: " 
 << endl;																																cin >> boolean;									string Newton = 
